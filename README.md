@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 🌝
 
-<!--
-**ray00178/ray00178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋🏻‍♂️ I'm Ray, from 🇹🇼 and an iOS Developer.
 
-Here are some ideas to get you started:
+📫  Contact me [Twitter](https://twitter.com/ray00178) | [E-mail](mailto:ray00178@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ray00178&show_icons=true&icon_color=FFCC00&text_color=718096&bg_color=ffffff&count_private=true" />
+</p>
+
+- 🌚  I’m currently learning Flutter
+
+- 📷  My opensource library [EasyAlbum](https://github.com/ray00178/EasyAlbum) - A lightweight, pure-Swift library for pick up photo from your album.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ray00178&repo=EasyAlbum)](https://github.com/ray00178/EasyAlbum)
