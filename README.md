@@ -11,4 +11,4 @@
 - 🌚  I’m currently learning Flutter
 
 - 📷  My opensource library [EasyAlbum](https://github.com/ray00178/EasyAlbum) - A lightweight, pure-Swift library for pick up photo from your album.
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ray00178&repo=EasyAlbum)](https://github.com/ray00178/EasyAlbum)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ray00178&repo=EasyAlbum)](https://github.com/ray00178/EasyAlbum) -->
