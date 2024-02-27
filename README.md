@@ -4,9 +4,9 @@
 
 📫  Contact me [Twitter](https://twitter.com/ray00178) | [E-mail](mailto:ray00178@gmail.com)
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ray00178&show_icons=true&icon_color=FFCC00&text_color=718096&bg_color=ffffff&count_private=true" />
-</p>
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=ray00178&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
 
 - 🌚  I’m currently learning SwiftUI
 
